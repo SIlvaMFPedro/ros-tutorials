@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_pedro_n552vx__35031: 'http://pedro-N552VX:35031/'}
+rosversion: '1.14.3
+
+  '
+run_id: e0446cb8-34f5-11e9-bda7-1002b59267e7
